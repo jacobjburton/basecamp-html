@@ -1,0 +1,104 @@
+a
+{
+    color:white;
+    font-size: 16px;
+    font-family: sans-serif;
+    display: block;
+    padding-right: 36px;
+    padding-top: 12px;
+    padding-bottom: 12px; 
+    text-decoration: none;
+    float: right;
+}
+ul
+{
+    background-color: gray;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 4px;
+}
+.companyName
+{
+    float: left;
+    font-size: 24px;
+    padding-left: 30px;
+}
+.title
+{
+    margin: 0;
+    /*padding: 120px 10 px;*/
+   /* height: 60px;*/
+    text-align: center;
+    color: yellowgreen;
+    font-size: 72px;
+    font-family: sans-serif;
+    background-color: black;
+    padding: 100px 200px;
+}
+.gblocks
+{
+    display: inline-block;
+    background-color: lightgreen;
+    margin: 100px;
+    padding: 160px;
+    border-radius: 25px;
+}
+#gbox1
+{
+    float: right;
+}
+#gbox2
+{
+    margin-left: 250px;
+}
+#gbox3
+{
+    float: left;
+}
+.oblocks
+{
+    background-color: orange;
+    display: inline-block;
+    /*margin: 50px 100px;*/
+    padding: 160px 400px;
+    margin-bottom: 60px;
+}
+#obox1
+{
+    float:right;
+    margin-right: 100px;
+    margin-left: 2px;
+}
+#obox2
+{
+    float:left;
+    margin-right: 2px;
+    margin-left: 100px;
+}
+c
+{
+    display: inline-block;
+}
+.resize
+{
+    height: 300px;
+    width: 500px;
+    float: right;
+    margin: 60px;
+    padding-left: 280px;
+}
+p
+{
+    height: 300px;
+    width: 500px;
+    float: left;
+    margin: 60px;
+    padding-top: 90px;
+    padding-left: 180px;
+}
+footer
+{
+    background-color: purple;
+    height: 160px;
+}
